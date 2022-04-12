@@ -1,6 +1,9 @@
 ### Token Metadata 
-Token address ```0x8888c466B2712d154680096d9bCAc4165396471E```
+
+Token address on Rinkeby Network ```0x8888c466B2712d154680096d9bCAc4165396471E```
+
 Token Name ```Enigma```
+
 Token Symbol ```EG```
 
 ### Dependencies
